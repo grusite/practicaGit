@@ -1,8 +1,8 @@
 # README practica git
 
-- ¿Qué comando utilizaste en el paso 11? ¿Por qué? - git reset --hard HEAD~1
+- ¿Qué comando utilizaste en el paso 11? ¿Por qué? - git reset --hard HEAD~1 - Al hacer reset HEAD~1 vuelvo al comit anterior y con --hard le digo que pierda lo que tenía en el workinfo
 
-- ¿Qué comando o comandos utilizaste en el paso 12? ¿Por qué?
+- ¿Qué comando o comandos utilizaste en el paso 12? ¿Por qué? - git reset --hard d9db4d1 - Porque es el id de commit de donde venia que he sacado de hacer un reflog
 
 - El merge del paso 13, ¿Causó algún conflicto? ¿Por qué?
 
