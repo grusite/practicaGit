@@ -1,4 +1,4 @@
-#README practica git
+# README practica git
 
 - ¿Qué comando utilizaste en el paso 11? ¿Por qué? - git reset --hard HEAD~1
 
